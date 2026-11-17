@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ExamenADD-2026</string>
+    <string name="app_cache">app-cache</string>
+    <string name="local_data_source">local_data_source</string>
 </resources>
